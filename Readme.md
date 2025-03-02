@@ -1,0 +1,5 @@
+O **Curso de JavaScript** do canal **Curso em Vídeo** tem sido uma das minhas escolhas para aprender mais sobre essa linguagem que é tão fundamental no desenvolvimento web. Resolvi me inscrever para ver como vou me sair, se realmente vou conseguir acompanhar e evoluir com o conteúdo. A proposta do canal é muito boa, com uma explicação bem clara e exemplos práticos que facilitam o entendimento, especialmente para quem está começando.
+
+Eu estou bastante curioso para ver como vou me desenvolver ao longo do curso. Sei que o conteúdo abrange desde o básico até coisas mais avançadas, e isso me dá uma sensação de que vou conseguir ir evoluindo no meu próprio ritmo. O melhor é que o curso é gratuito, o que torna o aprendizado ainda mais acessível, sem pesar no bolso.
+
+Minha ideia é que, ao finalizar o curso, eu consiga usar o que aprendi para aplicar em projetos reais. Quero, no futuro, ser capaz de criar soluções com JavaScript por conta própria. Estou animado para ver como vai ser essa jornada e espero que ela me ajude a crescer como desenvolvedor.
