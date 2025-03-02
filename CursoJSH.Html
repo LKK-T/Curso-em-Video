@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Curso em Vídeo</title>
-    <style>
+    <style> /* aqui que começa o CSS */
         body{
             background-color: rgb(17, 37, 226);
             color: aliceblue;
@@ -14,14 +14,15 @@
             color: yellow;
         }
     </style>
-</head>
+</head> 
 <body>
-    <h1>Olá, mundo!</h1>
+    <h1>Olá, mundo!</h1> <!--isso é um comentário em Html-->
     <p1> Esse curso gera empregos</p1>
-    <script>
-        window.alert ('aprendendo a programar')
-        window.confirm ('vai terminar o curso?')
-        window.prompt ('em qual módulo está?')
+    <script> /* aqui que começa o JS */
+    var n1 = Number(window.prompt('Digite um número com 2 casas decimais'))
+    var n2 = Number(window.prompt('Digite outro número com 2 casas decimais'))
+    var s = n1 + n2 
+    window.alert (`A multiplicação entre ${n1} e ${n2} é ${s}`)
     </script>
 </body>
 </html>
